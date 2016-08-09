@@ -1,0 +1,10 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+  border-top: none;
+  background: white;
+  border-bottom: 2px solid $header-bg-border;
+  a.navbar-brand {
+    background: $green;
+    color: white;
+  }
+}

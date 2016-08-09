@@ -1,0 +1,32 @@
+* {
+  font-family:"Open Sans",sans-serif;
+}
+.main-body {
+  background: url('../images/weather.png');
+}
+
+.card {
+  background: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  h1, h2 {
+    color: $teal;
+    text-transform: uppercase;
+  }
+  .thumbnail {
+    width: 225px;
+    float: left;
+    margin-right: 15px;
+  }
+}
+.social {
+  margin-bottom: 30px;
+  .fa {
+    font-size: 65px;
+    margin: 10px;
+  }
+}
+h2 {
+  font-size: 23px;
+}
