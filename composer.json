@@ -1,0 +1,14 @@
+{
+    "name": "user/homework-basic-portfolio",
+    "description": "homework for RCB",
+    "type": "project",
+    "require": {
+        "sendgrid/sendgrid": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Anthony Delgado",
+            "email": "me@anthonydelgado.me"
+        }
+    ]
+}

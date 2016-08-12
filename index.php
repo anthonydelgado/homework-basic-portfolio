@@ -1,7 +1,10 @@
 <?php
 /**
- * Heroku Template loader
+ * Heroku Template loader - Home
  */
+
+require 'vendor/autoload.php';
+
 ?><!doctype html>
 <html>
 <head>

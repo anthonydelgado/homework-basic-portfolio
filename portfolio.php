@@ -2,6 +2,9 @@
 /**
  * Heroku Template loader - Portfolio
  */
+
+require 'vendor/autoload.php';
+
 ?><!doctype html>
 <html>
 <head>
