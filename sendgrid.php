@@ -10,9 +10,9 @@ $PERSONAL_EMAIL = getenv('PERSONAL_EMAIL');
 //$BODY_EMAIL = $_POST['textarea'];
 
 $from = new SendGrid\Email(null, $PERSONAL_EMAIL);
-$subject = "Hello World from the SendGrid PHP Library!";
+$subject = "Hello World from the SendGrid PHP Library";
 $to = new SendGrid\Email(null, $PERSONAL_EMAIL);
-$content = new SendGrid\Content("text/plain", "Hello, Email!");
+$content = new SendGrid\Content("text/plain", "Hello World");
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
 $apiKey = getenv('SENDGRID_API_KEY');
