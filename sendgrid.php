@@ -23,11 +23,8 @@ echo $response->statusCode();
 echo $response->headers();
 echo $response->body();
 echo $PERSONAL_EMAIL;
-echo $from;
-echo $subject;
-echo $to;
-echo $content;
 echo $_POST['textarea'];
 echo $_POST['email'];
-
+echo htmlspecialchars($_POST["email"]);
+echo htmlspecialchars($_POST["textarea"]);
 exit;
