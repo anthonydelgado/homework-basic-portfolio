@@ -22,5 +22,10 @@ $response = $sg->client->mail()->send()->post($mail);
 echo $response->statusCode();
 echo $response->headers();
 echo $response->body();
+echo $PERSONAL_EMAIL;
+echo $from;
+echo $subject;
+echo $to;
+echo $content;
 
 exit;
