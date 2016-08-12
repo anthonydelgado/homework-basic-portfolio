@@ -9,10 +9,10 @@
     <hr>
     <p>
 
-    <form>
+        <form action="sendgrid.php" method="post">
         <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="What is your email?">
+            <input type="email" class="form-control" id="email" placeholder="What is your email?">
         </div>
         <div class="form-group">
             <label for="textarea">Whats up?</label>
