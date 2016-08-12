@@ -1,6 +1,6 @@
 <?php
 /**
- * Heroku Template loader
+ * Heroku Template loader - Portfolio
  */
 ?><!doctype html>
 <html>
@@ -11,7 +11,7 @@
     <?php include 'templates/header.php'; ?>
 <div class="container-fluid main-body">
     <div class="container">
-        <?php include 'templates/home.php'; ?>
+        <?php include 'templates/portfolio.php'; ?>
         <?php include 'templates/sidebar.php'; ?>
     </div>
 </div>
