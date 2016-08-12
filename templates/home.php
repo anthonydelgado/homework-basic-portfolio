@@ -13,6 +13,8 @@
         I'm a software developer & technology evangelist from NYC.
         I’ve been an explorer of the digital space for over a decade. From helping to design and build custom user interfaces, to creating advanced backend applications that aggregate and collect data, my passion is using software to help change the way people interact with the world around them.
         <br>
+        <br>
+        <br>
         This is a home work assignment that was completed as part of the Rutgers Coding Bootcamp, so please excuse all the Lorem ipsum. If you would like learn more about me, we can
         <a href="https://www.linkedin.com/in/anthony-delgado">connect on LinkedIn</a>, you can
         <a href="https://github.com/anthonydelgado">fork me on GitHub</a> or if you really want to get to know me you can
