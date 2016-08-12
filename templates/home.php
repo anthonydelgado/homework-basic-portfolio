@@ -19,8 +19,8 @@
         <br>
         This is a home work assignment that was completed as part of the Rutgers Coding Bootcamp, so please excuse all the Lorem ipsum. If you would like learn more about me, we can
         <a href="https://www.linkedin.com/in/anthony-delgado">connect on LinkedIn</a>, you can
-        <a href="https://github.com/anthonydelgado">fork me on GitHub</a> or if you really want to get to know me you can
-        <a href="anthonydelgado.github.io">visit my personal portfolio at anthonydelgado.github.io</a>.
+        <a href="https://github.com/anthonydelgado">fork me on GitHub</a> or if you really want to get to know me you can visit my personal portfolio at
+        <a href="anthonydelgado.github.io">anthonydelgado.github.io!</a>
 
 
         <br>
